@@ -24,7 +24,9 @@ body {
 p {
   margin-bottom: 0;
   padding: 0.5vw;
+ 
 }
+
 
 img {
   padding-right: 1rem;
@@ -436,9 +438,11 @@ input[data-error]::after {
   z-index: 1;
 }
 .hero-headline {
-  font-size: 6rem;
+  font-size:90px;
   font-weight: normal;
   white-space: nowrap;
+  text-align: center;
+ 
 }
 .hero-text {
   width: 146%;
@@ -526,4 +530,3 @@ footer {
     opacity: 1;
   }
 }
-
